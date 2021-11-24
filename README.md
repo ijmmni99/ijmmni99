@@ -8,7 +8,7 @@ Skills:  ANGULAR / ASP . NET / FLUTTER / HTML / CSS
 
 - 🔭 I’m currently working on [TVET](https://github.com/ijmmni99/project-tvet) 
 - 🌱 I’m currently learning [VueJS](https://vuejs.org/) 
-- 📫 How to reach me: **Email** 
+- 📫 How to reach me: [E-mail](nasharul99@gmail.com) 
 - ⚡ Fun fact: The first computer virus was a Creeper. 
 
 
